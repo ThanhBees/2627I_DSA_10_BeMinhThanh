@@ -1,0 +1,4 @@
+Câu 1:
+    (a)chuỗi in ra: 1 2 3 3 4 5 4 5 6 7
+    (b)trường hợp tồi nhất của một thao tác self-printing sẽ phải in ra từng phần tử -> thời gian chạy: (n)
+    (c)Chi phí in toàn bộ trong trường hợp xấu nhất (n^2), thời gian trung bình chạy là (n)
